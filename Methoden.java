@@ -24,7 +24,7 @@ public class Methoden {
         hours(456);
         hours(1200);
         hours(4423);
-        hours(86400);
+        hours(14039283);
         // TODO: Schreibe mehr Testcode
         System.out.println();
 
@@ -46,8 +46,7 @@ public class Methoden {
         return Math.sqrt(dx * dx + dy * dy);
     }
 
-
-
+   
     
 
 }
